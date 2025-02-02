@@ -8,9 +8,16 @@ public class Function {
         Age age1 = new Age();
         System.out.println(age.Id);
         System.out.println(age1.Id);
+
+        
         System.out.println(age.Name);
 
         
+
+
+
+
+
     }
 }
 

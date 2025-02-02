@@ -18,6 +18,9 @@ public class Myself {
         student2.mathIIMarks = 55;
         student2.englishMarks = 34;
 
+
+        
+
         int student1Avg = student.average();
         int student2Avg = student2.average();
 
